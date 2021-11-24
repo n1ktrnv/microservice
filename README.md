@@ -15,4 +15,19 @@
 ![screenshot](images/2.png)
 
 2. Настройте веб-сервер по Вашему выбору (Apache2 или nginx) таким образом, чтобы он поддерживал соединение по протоколу HTTPS. Для этого сгенирируйте самоподписанный сертификат SSL.
+
+![screenshot](images/3.png)
+
+![screenshot](images/4.png)
+
+![screenshot](images/5.png)
+
+![screenshot](images/6.png)
+
 3. Модифицируйте код вашего сервиса таким образом, чтобы он поддерживал защищенное соединение.
+
+![screenshot](images/7.png)
+
+![screenshot](images/8.png)
+
+![screenshot](images/9.png)
